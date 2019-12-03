@@ -12,4 +12,4 @@ Skillz Plugin for Corona
     .updateScore(number) -- Update score.
     .endMatch(number) -- End match with final score.
 ```
-5. The library fill fire a callback when skillz ui exits and when match will begin.
+5. The library will fire a callback when skillz ui exits and when match will begin.
